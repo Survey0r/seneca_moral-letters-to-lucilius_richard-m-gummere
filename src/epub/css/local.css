@@ -57,4 +57,23 @@ footer{
 	display: none;
 }
 
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i4{
+	padding-left: 5em;
+	text-indent: -1em;
+}
+
+p span.i7{
+	padding-left: 8em;
+	text-indent: -1em;
+}
+
+p span.i13{
+	padding-left: 14em;
+	text-indent: -1em;
+}
 /* End poetry styling */
