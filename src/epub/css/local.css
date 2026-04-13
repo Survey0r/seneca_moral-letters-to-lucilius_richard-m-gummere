@@ -76,4 +76,9 @@ p span.i13{
 	padding-left: 14em;
 	text-indent: -1em;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
 /* End poetry styling */
