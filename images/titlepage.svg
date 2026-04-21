@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" id="svg5" version="1.1" sodipodi:docname="titlepage.svg" inkscape:version="1.4.3 (0d15f75, 2025-12-25)" viewBox="0 0 1400 690">
-	<title id="title1">The titlepage for the Standard Ebooks edition of Moral Letters to Lucilius, by Seneca. Translated by Richard M. Gummere</title>
-	<defs id="defs5"/>
-	<sodipodi:namedview bordercolor="#000000" borderopacity="0.25" id="namedview5" pagecolor="#ffffff" inkscape:current-layer="svg5" inkscape:cx="714.5639" inkscape:cy="245.84996" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="631" inkscape:window-maximized="0" inkscape:window-width="1222" inkscape:window-x="285" inkscape:window-y="204" inkscape:zoom="0.50030515"/>
-	<style id="style1" type="text/css">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
+	<title>The titlepage for the Standard Ebooks edition of Moral Letters to Lucilius, by Seneca. Translated by Richard M. Gummere</title>
+	<style type="text/css">
 		text{
 			font-family: "League Spartan";
 			letter-spacing: 5px;
@@ -29,9 +27,9 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" id="text1" x="700" y="130">MORAL LETTERS</text>
-	<text class="title" id="text2" x="700" y="230">TO LUCILIUS</text>
-	<text class="author" id="text3" x="700" y="390">SENECA</text>
-	<text class="contributor-descriptor" id="text4" x="700" y="580">translated by</text>
-	<text class="contributor" id="text5" x="700" y="640">RICHARD M. GUMMERE</text>
+	<text class="title" x="700" y="130">MORAL LETTERS</text>
+	<text class="title" x="700" y="230">TO LUCILIUS</text>
+	<text class="author" x="700" y="390">SENECA</text>
+	<text class="contributor-descriptor" x="700" y="580">translated by</text>
+	<text class="contributor" x="700" y="640">RICHARD M. GUMMERE</text>
 </svg>
