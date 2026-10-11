@@ -62,12 +62,12 @@
 		<meta property="file-as" refines="#author">Seneca</meta>
 		<meta property="se:name.person.full-name" refines="#author">Seneca the Younger</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Seneca_the_Younger</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79004229</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79004229.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Richard M. Gummere</dc:contributor>
 		<meta property="file-as" refines="#translator">Gummere, Richard M.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Richard Mott Gummere</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n85222674</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n85222674.html</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
