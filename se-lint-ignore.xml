@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="src/epub/text/endnotes.xhtml">
+		<ignore code="t-024">
+			<line>3122</line>
+			<reason>The double quotation marks are in the Latin quote. The quote is in Latin, which requires italicization.</reason>
+		</ignore>
+		<ignore code="y-005">
+			<line>1395</line>
+			<reason>The comma is following a Latin quote, which is using italics instead of quotation marks to mark the quotation.</reason>
+		</ignore>
+		<ignore code="y-031">
+			<line>3299</line>
+			<reason>The quotation marks are used for emphasis, and are not dialog.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
